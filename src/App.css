@@ -1,0 +1,36 @@
+.tasksContainer{
+     margin-top: 50px;
+     width: 750px;
+     position: relative;
+     left: calc(50% - 375px);
+}
+
+.tasks{
+     display: block;
+}
+
+.title{
+     width: 650px;
+     position: relative;
+     left: 0;
+     padding: 0;
+     margin-bottom: 20px;
+}
+
+.title h2 {
+     margin: 0;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: lighter;
+     font-size: 35px;
+}
+
+.title hr {
+     border: 0;
+     height: 1px;
+     background-color: black; 
+}
+
+.addTask {
+     all: unset;
+     
+}
